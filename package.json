@@ -1,0 +1,19 @@
+{
+  "name": "minimal-event-emitter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allemanfredi/minimal-event-emitter.git"
+  },
+  "author": "Alessandro Manfredi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allemanfredi/minimal-event-emitter/issues"
+  },
+  "homepage": "https://github.com/allemanfredi/minimal-event-emitter#readme"
+}
