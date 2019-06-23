@@ -1,7 +1,7 @@
 # light-event-emitter
 
 
-light-event-emitter it allows to manage the communication through events implemented with callbacks
+light-event-emitter allows to manage the communication through events implemented with callbacks
 
 ## import
 
