@@ -6,17 +6,17 @@ callback-emitter it allows to manage the communication through events implemente
 ## import
 
 ```javascript
-const { EventEmitter } = require('../index');
+const { CallbackEmitter } = require('../index');
 ```
 
 ## emit
 
 ```javascript
-EventEmitter.emit('event' , 'hello world');
+CallbackEmitter.emit('event' , 'hello world');
 ```
 
 ## on
 
 ```javascript
-EventEmitter.on('event' , console.log);
+CallbackEmitter.on('event' , console.log);
 ```
