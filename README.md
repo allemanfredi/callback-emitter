@@ -1,7 +1,7 @@
-# minimal-event-emitter
+# callback-emitter
 
 
-minimal-event-emitter it allows to manage the communication through events implemented with callbacks
+callback-emitter it allows to manage the communication through events implemented with callbacks
 
 ## import
 

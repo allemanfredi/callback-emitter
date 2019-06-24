@@ -1,5 +1,5 @@
 
-const EventEmitter = {
+const CallbackEmitter = {
     
     events : {},
     
@@ -15,4 +15,4 @@ const EventEmitter = {
 }
 
 
-module.exports = { EventEmitter }
+module.exports = { CallbackEmitter }

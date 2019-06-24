@@ -1,5 +1,5 @@
 {
-  "name": "minimal-event-emitter",
+  "name": "callback-emitter",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/allemanfredi/minimal-event-emitter.git"
+    "url": "git+https://github.com/allemanfredi/callback-emitter.git"
   },
   "author": "Alessandro Manfredi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/allemanfredi/minimal-event-emitter/issues"
+    "url": "https://github.com/allemanfredi/callback-emitter/issues"
   },
-  "homepage": "https://github.com/allemanfredi/minimal-event-emitter#readme"
+  "homepage": "https://github.com/allemanfredi/callback-emitter#readme"
 }

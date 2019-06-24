@@ -1,6 +1,6 @@
 
-const { EventEmitter } = require('../index');
+const { CallbackEmitter } = require('../index');
 
-EventEmitter.on('event' , console.log);
+CallbackEmitter.on('event' , console.log);
 
-EventEmitter.emit('event' , 'hello world');
+CallbackEmitter.emit('event' , 'hello world');
