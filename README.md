@@ -1,7 +1,7 @@
 # callback-emitter
 
 
-callback-emitter it allows to manage the communication through events implemented with callbacks
+callback-emitter allows to manage the communication through events implemented with callbacks
 
 ## import
 
